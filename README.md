@@ -25,4 +25,4 @@ The JWT-based Authentication System is a web application that provides a secure 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/davidogundepo/Job-Project.git
